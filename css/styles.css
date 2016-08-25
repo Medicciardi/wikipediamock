@@ -6,16 +6,18 @@
 .boxleft {
   border: 1px solid #ddd;
   background-color: #f5fffa;
+  margin-top: 10px;
 }
 
 .boxlefthead {
   border: 1px solid #ddd;
-  background-color: #cef2e0;;
+  background-color: #cef2e0;
 }
 
 .boxright {
   border: 1px solid #ddd;
   background-color: #f5faff;
+  margin-top: 10px;
 }
 
 .boxrighthead {
@@ -26,9 +28,14 @@
 .boxbottom {
   border: 1px solid #ddd;
   background-color: #faf5ff;
+  margin-top: 10px;
 }
 
 .boxbottomhead {
   border: 1px solid #ddd;
   background-color: #ddcef2;
+}
+
+.navigation {
+  padding-top: 15px;
 }
