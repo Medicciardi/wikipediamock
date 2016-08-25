@@ -1,1 +1,34 @@
-style="border: 1px solid #ddd"
+.boxhead {
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+.boxleft {
+  border: 1px solid #ddd;
+  background-color: #f5fffa;
+}
+
+.boxlefthead {
+  border: 1px solid #ddd;
+  background-color: #cef2e0;;
+}
+
+.boxright {
+  border: 1px solid #ddd;
+  background-color: #f5faff;
+}
+
+.boxrighthead {
+  border: 1px solid #ddd;
+  background-color: #cedff2;
+}
+
+.boxbottom {
+  border: 1px solid #ddd;
+  background-color: #faf5ff;
+}
+
+.boxbottomhead {
+  border: 1px solid #ddd;
+  background-color: #ddcef2;
+}
